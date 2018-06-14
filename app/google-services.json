@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "537854779377",
+    "firebase_url": "https://greens-ed283.firebaseio.com",
+    "project_id": "greens-ed283",
+    "storage_bucket": "greens-ed283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537854779377:android:954ecd9c5e5c7422",
+        "android_client_info": {
+          "package_name": "com.farm.mbaabu.greens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537854779377-cmko6eq6dpdvlmugp4la39snv15fd4ou.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "537854779377-cmko6eq6dpdvlmugp4la39snv15fd4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8D2LoU3Ycqp5pV363Ax4uo0nGtXw_tkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
